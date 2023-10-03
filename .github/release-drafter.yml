@@ -32,6 +32,8 @@ categories:
   - title: "⬆️ Dependency updates"
     labels:
       - "dependencies"
+exclude-labels:
+  - "bump-version"
 
 version-resolver:
   major:
